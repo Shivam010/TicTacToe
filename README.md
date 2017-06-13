@@ -9,7 +9,11 @@ The idea and the gist of the project is for fun and to complete a childhood drea
 The base of the project is the script, set of codes written in JavaSript and jQuery, to make a move according to the user. The game make use of Min-Max Algorithm and the base conditions of the game.
 
 # Contributing
-Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into master! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
+Changes and improvements are more than welcome! 
+
+Feel free to fork and open a pull request. 
+
+And Please make your changes in a specific branch and request to pull into master! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
 
 # License
 Tic Tac Toe is licensed under the [MIT license.](https://github.com/Shivam010/TicTacToe/blob/master/LICENSE)
