@@ -1,3 +1,4 @@
+
 body{
     font-family: 'Walter turncoat', cursive;
     padding: 0px;
@@ -6,7 +7,39 @@ body{
     background: url(../images/Spider-Wallpaper.jpg) 25%;
     color: white;
 }
-a{color: white;text-decoration: none;}
+hr{
+    width: 380px;
+    border: none;
+    border-bottom: 2px solid #ffffff;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    cursor: pointer;
+}
+side{
+    background: white;
+    border-radius: 15px;
+    position: fixed;
+    right: 2px;
+    top:10px;
+}
+#icon{
+    display: block;
+    width: 29px;
+    height: 29px;
+    margin: 6px 2px;
+    padding-bottom: 2px;
+    border-bottom: solid 2px black;
+}
+#git,#fb,#g{
+    display: block;
+    margin: 5px 3px;
+    width: 29px;
+    height: 29px;
+}
 p{
     font-family: 'Walter turncoat', cursive;
     font-size:50px;
@@ -16,9 +49,9 @@ p{
 #block{
     border-radius: 20px;
     width: 500px;
-    padding: 10px 0;
+    padding: 10px 0 20px;
     box-shadow: 0px 0px 35px 3px rgba(255, 255, 255, 0.93);
-    margin: 5% 0%;
+    margin: 6% 0%;
 }
 #heading{
     font-size: 70px;
@@ -98,12 +131,12 @@ input[type="button"]#replay{
     cursor: pointer;
 }
 footer{
-    font-family: Georgia;
+    font-family: Georgia,Arial;
     font-size: 12px;
     color: white;
     font-variant-caps:small-caps;
     font-weight: bold;
-    margin-top: 20px;
+    margin-top: 15px;
     padding: 5px 0;
     text-align: center;
     position: static;
@@ -119,5 +152,10 @@ footer{
     font-size: 100px;
 }
 .content.last{margin: -9.8px;}
-
-/*#o2{display: inherit;}*/
+#par{
+    padding-top: 5px;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 16px;
+    width: 380px;
+}
