@@ -6,7 +6,7 @@ Made Just for fun. [Play it here!](https://shivam010.github.io/TicTacToe/)
 # Background
 The idea and the gist of the project is for fun and to complete a childhood dream of creating a program that plays this game, Tic Tac Toe i.e. X-O by its own against us.
 
-The base of the project is the script, set of codes written in JavaSript and jQuery, to make a move according to the user. The game make use of Min-Max Algorithm and the base conditions of the game.
+The base of the project is the script, set of codes written in JavaSript and jQuery, to make a move according to the user. The game makes use of Min-Max Algorithm and the base conditions of the game.
 
 # Contributing
 Changes and improvements are more than welcome! 
